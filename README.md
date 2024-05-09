@@ -8,7 +8,7 @@ To determine the characteristics of a highly-rated chocolate bar, my analysis ex
 
 ## Data 
 
-The dataset contains information  related to Company name, company location, Rating, Bean Origin, Bean Type and Review year.
+The [dataset] (https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings) contains information  related to Company name, company location, Rating, Bean Origin, Bean Type and Review year.
 
 ## Tools 
 
