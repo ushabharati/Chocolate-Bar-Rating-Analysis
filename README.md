@@ -4,7 +4,7 @@ Welcome to the Chocolate Bar Ratings Dataset repository! This repository contain
 
 ## Objective
 
-To determine the characteristics of a highly-rated chocolate bar, our analysis examines various factors such as cocoa percentage, bean origin, and company reputation. By scrutinizing these elements, we aim to uncover the key attributes that contribute to consumer satisfaction and distinguish top-rated chocolate bars from the rest of the market.
+To determine the characteristics of a highly-rated chocolate bar, my analysis examines various factors such as cocoa percentage, bean origin, and company reputation. By scrutinizing these elements, I aim to uncover the key attributes that contribute to consumer satisfaction and distinguish top-rated chocolate bars from the rest of the market.
 
 ## Data 
 
