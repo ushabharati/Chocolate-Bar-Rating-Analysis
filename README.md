@@ -22,8 +22,8 @@ sklearn for regression analysis
 
 ## Project folder details
 
-Project management containing Project Brief
+* Project management containing Project Brief
 
-Data folder containing the dataset and geoJSON file used for geospatial analysis
+* Data folder containing the dataset and geoJSON file used for geospatial analysis
 
-Scripts folder with Jupiter notebooks containing the coding done for the analysis
+* Scripts folder with Jupiter notebooks containing the coding done for the analysis
