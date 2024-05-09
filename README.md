@@ -1,4 +1,4 @@
-# Chocolate-Bar-Rating-Analysis
+## Chocolate-Bar-Rating-Analysis
 
 Welcome to the Chocolate Bar Ratings Dataset repository! This repository contains a dataset and analysis focusing on chocolate bars and their ratings. 
 
