@@ -13,12 +13,17 @@ The dataset contains information  related to Company name, company location, Rat
 ## Tools 
 
 pandas, numpy for data analysis 
+
 seaborn, matplotlib for data visualization
+
 folium for geographical visualization
+
 sklearn for regression analysis
 
 ## Project folder details
 
 Project management containing Project Brief
-Data folder containing the dataset and geoJSON file used for geospatial analysis.
+
+Data folder containing the dataset and geoJSON file used for geospatial analysis
+
 Scripts folder with Jupiter notebooks containing the coding done for the analysis
