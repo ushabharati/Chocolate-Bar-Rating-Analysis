@@ -12,13 +12,13 @@ The dataset contains information  related to Company name, company location, Rat
 
 ## Tools 
 
-pandas, numpy for data analysis 
+* pandas, numpy for data analysis 
 
-seaborn, matplotlib for data visualization
+* seaborn, matplotlib for data visualization
 
-folium for geographical visualization
+* folium for geographical visualization
 
-sklearn for regression analysis
+* sklearn for regression analysis
 
 ## Project folder details
 
